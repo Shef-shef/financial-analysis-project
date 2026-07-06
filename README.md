@@ -29,7 +29,7 @@
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/твой_username/financial-analysis.git
+git clone https://github.com/Shef-shef/financial-analysis-project.git
 cd financial-analysis
 
 # Установи зависимости
